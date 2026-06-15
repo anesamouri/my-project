@@ -1,3 +1,4 @@
+window.alert("wellcom to my page")
 const textbox = document.getElementById("textbox")
 const tofarnheight = document.getElementById("tofarnheight")
 const tocelsus = document.getElementById("tocelsus")
